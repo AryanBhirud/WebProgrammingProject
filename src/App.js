@@ -7,7 +7,7 @@ function App() {
 		<div className="container">
 			<div className="card text-center mt-5">
 				<div className="card-header bg-primary text-white">
-					<h1 className="display-4">Text Adventure Game</h1>
+					<h1 className="display-4">Adventure</h1>
 				</div>
 				<div className="card-body">
 					<Game />
